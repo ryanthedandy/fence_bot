@@ -1,0 +1,13 @@
+# Ignore all
+*.log
+*.mp4
+
+# Ignore the build directory
+/build/
+/test_photos/
+/.venv/
+/trade_alert/
+/item_panel/
+/item_history/
+
+# Ignore a specific file
