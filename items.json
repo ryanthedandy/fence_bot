@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Adventurer Boots",
+    "rarity": "Epic",
+    "attributes": [
+      "Magical Damage Bonus",
+      "Strength"
+    ],
+    "owner": "user",
+    "price": 98,
+    "crafted_variants": 1,
+    "is_listed": true,
+    "is_sold": false,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 0
+  },
+  {
+    "name": "Plate Boots",
+    "rarity": "Rare",
+    "attributes": [
+      "Move Speed Bonus"
+    ],
+    "owner": "user",
+    "price": 44,
+    "crafted_variants": 5,
+    "is_listed": true,
+    "is_sold": false,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 1
+  },
+  {
+    "name": "Crystal Ball",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 34,
+    "crafted_variants": 0,
+    "is_listed": true,
+    "is_sold": false,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 2
+  },
+  {
+    "name": "Reinforced Gloves",
+    "rarity": "Rare",
+    "attributes": [
+      "Agility"
+    ],
+    "owner": "user",
+    "price": 88,
+    "crafted_variants": 0,
+    "is_listed": true,
+    "is_sold": false,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 3
+  },
+  {
+    "name": "Ring of Quickness",
+    "rarity": null,
+    "attributes": [],
+    "owner": "user",
+    "price": 179,
+    "crafted_variants": 0,
+    "is_listed": true,
+    "is_sold": false,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  }
+]

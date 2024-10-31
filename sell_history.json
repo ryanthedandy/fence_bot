@@ -1,0 +1,567 @@
+[
+  {
+    "name": "Padded Tunic",
+    "rarity": "Rare",
+    "attributes": [
+      "Physical Power",
+      "Dexterity"
+    ],
+    "owner": "0",
+    "price": 432,
+    "crafted_variants": 1,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 0
+  },
+  {
+    "name": "Splendid Cloak",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "test",
+    "price": 149,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 1
+  },
+  {
+    "name": "Spangenhelm",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "test",
+    "price": 39,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 1
+  },
+  {
+    "name": "Necklace of Peace",
+    "rarity": "Rare",
+    "attributes": [
+      "True Magical Damage"
+    ],
+    "owner": "Fireball",
+    "price": 197,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Reinforced Gloves",
+    "rarity": "Rare",
+    "attributes": [],
+    "owner": "Fireball",
+    "price": 39,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 6
+  },
+  {
+    "name": "Plate Boots",
+    "rarity": "Epic",
+    "attributes": [
+      "Vigor"
+    ],
+    "owner": "Fireball",
+    "price": 114,
+    "crafted_variants": 5,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Ring of Quickness",
+    "rarity": "Uncommon",
+    "attributes": [],
+    "owner": "Fireball",
+    "price": 39,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 5
+  },
+  {
+    "name": "Rapier",
+    "rarity": "Epic",
+    "attributes": [
+      "Max Health Bonus"
+    ],
+    "owner": "Fireball",
+    "price": 129,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Vigilant Cloak",
+    "rarity": null,
+    "attributes": [],
+    "owner": "Fireball",
+    "price": 138,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 7
+  },
+  {
+    "name": "Rugged Boots",
+    "rarity": "Rare",
+    "attributes": [
+      "Agility"
+    ],
+    "owner": "Fireball",
+    "price": 38,
+    "crafted_variants": 1,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 6
+  },
+  {
+    "name": "Rondel Dagger",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "Fireball",
+    "price": 239,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 5
+  },
+  {
+    "name": "Rondel Dagger",
+    "rarity": "Rare",
+    "attributes": [
+      "Magical Damage Bonus"
+    ],
+    "owner": "Fireball",
+    "price": 98,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Rondel Dagger",
+    "rarity": "Rare",
+    "attributes": [
+      "Magical Damage Bonus"
+    ],
+    "owner": "Fireball",
+    "price": 98,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Hounskull",
+    "rarity": "Rare",
+    "attributes": [
+      "Max Health"
+    ],
+    "owner": "Fireball",
+    "price": 59,
+    "crafted_variants": 1,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 3
+  },
+  {
+    "name": "Hounskull",
+    "rarity": "Epic",
+    "attributes": [
+      "Additional Magical Damage",
+      "Dexterity"
+    ],
+    "owner": "Fireball",
+    "price": 79,
+    "crafted_variants": 1,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 2
+  },
+  {
+    "name": "Longbow",
+    "rarity": "Epic",
+    "attributes": [
+      "Max Health Bonus"
+    ],
+    "owner": "user",
+    "price": 93,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 9
+  },
+  {
+    "name": "Turnshoe",
+    "rarity": "Uncommon",
+    "attributes": [],
+    "owner": "user",
+    "price": 24,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Ring of Courage",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 209,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 7
+  },
+  {
+    "name": "Laced Turnshoe",
+    "rarity": "Rare",
+    "attributes": [
+      "Additional Move Speed",
+      "Max Health Bonus"
+    ],
+    "owner": "user",
+    "price": 249,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 1
+  },
+  {
+    "name": "Ring of Resolve",
+    "rarity": "Rare",
+    "attributes": [],
+    "owner": "user",
+    "price": 68,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 5
+  },
+  {
+    "name": "Ring of Vitality",
+    "rarity": "Uncommon",
+    "attributes": [],
+    "owner": "user",
+    "price": 49,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 7
+  },
+  {
+    "name": "Ring of Quickness",
+    "rarity": "Rare",
+    "attributes": [
+      "True Physical Damage"
+    ],
+    "owner": "user",
+    "price": 299,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Ring of Courage",
+    "rarity": "Uncommon",
+    "attributes": [
+      "Additional Physical Damage"
+    ],
+    "owner": "user",
+    "price": 174,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 3
+  },
+  {
+    "name": "Ring of Vitality",
+    "rarity": "Rare",
+    "attributes": [
+      "Max Health Bonus"
+    ],
+    "owner": "user",
+    "price": 149,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 3
+  },
+  {
+    "name": "Ring of Vitality",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 178,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Rondel Dagger",
+    "rarity": "Epic",
+    "attributes": [
+      "Magical Healing"
+    ],
+    "owner": "user",
+    "price": 259,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 3
+  },
+  {
+    "name": "Ring of Courage",
+    "rarity": "Epic",
+    "attributes": [
+      "Additional Physical Damage"
+    ],
+    "owner": "user",
+    "price": 493,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 8
+  },
+  {
+    "name": "Ring of Courage",
+    "rarity": "Epic",
+    "attributes": [
+      "Additional Physical Damage"
+    ],
+    "owner": "user",
+    "price": 494,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 7
+  },
+  {
+    "name": "Necklace of Peace",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 243,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 6
+  },
+  {
+    "name": "Riveted Gloves",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 199,
+    "crafted_variants": 2,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 5
+  },
+  {
+    "name": "Loose Trousers",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 249,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 3
+  },
+  {
+    "name": "Loose Trousers",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 248,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 3
+  },
+  {
+    "name": "Owl Pendant",
+    "rarity": "Rare",
+    "attributes": [
+      "True Magical Damage",
+      "Max Health Bonus"
+    ],
+    "owner": "user",
+    "price": 149,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 7
+  },
+  {
+    "name": "Spear",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 298,
+    "crafted_variants": 1,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 7
+  },
+  {
+    "name": "Ring of Vitality",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 168,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 3
+  },
+  {
+    "name": "Ring of Courage",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 268,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 2
+  },
+  {
+    "name": "Mystic Vestments",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 157,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 5
+  },
+  {
+    "name": "Reinforced Gloves",
+    "rarity": "Epic",
+    "attributes": [],
+    "owner": "user",
+    "price": 123,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 4
+  },
+  {
+    "name": "Loose Trousers",
+    "rarity": "Rare",
+    "attributes": [
+      "Physical Power",
+      "Strength"
+    ],
+    "owner": "user",
+    "price": 209,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 2
+  },
+  {
+    "name": "Fine Cuirass",
+    "rarity": "Epic",
+    "attributes": [
+      "Magical Healing"
+    ],
+    "owner": "user",
+    "price": 249,
+    "crafted_variants": 0,
+    "is_listed": false,
+    "is_sold": true,
+    "in_stash": false,
+    "item_panel": null,
+    "slot": 1
+  }
+]
