@@ -25,7 +25,7 @@
 ------------------------------------
 ### **Video Demo**
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/fa2q5v?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+[![Watch the video]((https://youtu.be/rkwtHdzukq8?si=jh7jIvDZo8XARqAa))](https://youtu.be/rkwtHdzukq8?si=jh7jIvDZo8XARqAa)
 
 
 
