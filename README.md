@@ -10,8 +10,6 @@
 ### **Tools:**
     
     Technology: Python, Tesseract, CV2, pyautogui, numpy, gimp
-    
-    Inspirations: This legendary script inspired me to work on the trade bot for Dark and Darker. https://github.com/PoE-TradeMacro/POE-TradeMacro
 
 ------------------------------------
 ### **Automated Features:**
